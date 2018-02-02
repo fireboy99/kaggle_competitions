@@ -11,7 +11,6 @@ def print_optimal(s,i,j):
 
 
 p = [5,10,3,12,5,50,6]
-#print len(p)
 n = len(p) - 1
 
 m = [[0 for x in range(n+1)] for y in range(n+1)]
@@ -27,6 +26,4 @@ for l in range(2,n+1):
                 m[i][j] = q
                 s[i][j] = k
 
-print(m)
-print(s)
 print_optimal(s,1,6)
