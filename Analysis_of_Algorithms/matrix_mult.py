@@ -27,3 +27,4 @@ for l in range(2,n+1):
                 s[i][j] = k
 
 print_optimal(s,1,6)
+print("")
