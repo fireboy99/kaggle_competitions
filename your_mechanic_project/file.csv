@@ -3,3 +3,9 @@ remove, 2, 3
 add, 6, 8
 remove, 4, 7
 add, 2, 7
+remove, 4, 7
+add, 200, 700
+remove, 300, 400
+remove, 699,700 
+add, 699,700 
+add, 1,10000 
